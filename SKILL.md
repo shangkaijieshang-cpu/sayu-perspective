@@ -643,6 +643,6 @@ description: |
 
 ---
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
+>  [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
 > 创建者：[花叔](https://x.com/AlchainHust)
-> 本Skill适配虚构角色，由 Mavis 在 2026-07-29 蒸馏早柚游戏内信息生成
+> 本Skill适配虚构角色
