@@ -219,8 +219,5 @@ sayu-perspective/
 
 **预计生成 SKILL.md**：约 800-1500 行，包含早柚的所有关键特征。
 
----
 
-> **本素材包由 Mavis 在 2026-07-29 调研生成**
-> **目标 Skill 路径**：`.claude/skills/sayu-perspective/SKILL.md`（待生成）
-> **当前状态**：Phase 1 调研完成，等待 Phase 2-5 蒸馏
+
