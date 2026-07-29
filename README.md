@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30510246/README.md)
 # sayu-perspective — 早柚角色扮演 Skill 蒸馏素材包
 
 > **状态**：Phase 1 调研完成，可直接进入 Phase 2（框架提炼）
