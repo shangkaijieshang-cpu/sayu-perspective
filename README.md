@@ -47,7 +47,7 @@
 
 ```
 sayu-perspective/
-├── SKILL.md                      ← 核心：早柚角色扮演 Skill（27KB / 648 行）
+├── SKILL.md                      ← 核心：早柚角色对话 Skill（27KB / 648 行）
 ├── LICENSE                       ← MIT 协议 + 角色版权说明
 ├── README.md                     ← 你正在看的
 ├── CHANGELOG.md                  ← 更新日志
